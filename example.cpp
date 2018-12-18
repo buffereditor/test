@@ -2,9 +2,6 @@
 #include <conio.h>
 using namespace std;
 
-
-jou
-
 // Class Declaration
 
 class person {
