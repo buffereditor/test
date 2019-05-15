@@ -13,6 +13,7 @@ public:
 
 //Main Function
 test
+test2
 int main() {
     // Object Creation For Class
     person obj;
