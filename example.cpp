@@ -12,11 +12,7 @@ public:
 };
 
 //Main Function
-test
-test2
-test3
-test4
-test2fa27yy
+
 int main() {
     // Object Creation For Class
     person obj;
@@ -34,4 +30,3 @@ int main() {
     getch();
     return 0;
 }
-
