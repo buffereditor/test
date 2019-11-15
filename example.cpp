@@ -9,6 +9,7 @@ class person {
 public:
     string name;
     int number;
+
 };
 
 //Main Function
